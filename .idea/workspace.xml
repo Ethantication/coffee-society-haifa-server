@@ -9,11 +9,12 @@
       <change afterPath="$PROJECT_DIR$/../client/src/postcss.config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../client/src/services/api.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../client/tailwind.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/cafeRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insertData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/cafeController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/cafeController.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/Cafe.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Cafe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753427061799</updated>
-      <workItem from="1753427063094" duration="6578000" />
+      <workItem from="1753427063094" duration="11329000" />
     </task>
     <servers />
   </component>
