@@ -9,10 +9,10 @@
       <change afterPath="$PROJECT_DIR$/../client/src/postcss.config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../client/src/services/api.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../client/tailwind.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/cafeController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Cafe.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/routes/cafeRoutes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/cafeController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/cafeController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Cafe.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Cafe.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753427061799</updated>
-      <workItem from="1753427063094" duration="6178000" />
+      <workItem from="1753427063094" duration="6578000" />
     </task>
     <servers />
   </component>

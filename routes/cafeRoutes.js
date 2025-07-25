@@ -7,8 +7,8 @@ const cafeController = require('../controllers/cafeController');
 router.get('/', cafeController.getAllCafes);
 
 // You can add more cafe-related routes here as needed, for example:
-router.get('/:id', cafeController.getCafeById);
-router.post('/', cafeController.createCafe); // For admin/partner to add new cafes
+// router.get('/:id', cafeController.getCafeById);
+// router.post('/', cafeController.createCafe); // For admin/partner to add new cafes
 
 module.exports = router;
 
