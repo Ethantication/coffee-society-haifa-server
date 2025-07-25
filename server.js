@@ -5,6 +5,9 @@ require('dotenv').config(); // This loads .env file variables into process.env
 
 // Import your routes
 const authRoutes = require('./routes/authRoutes'); // Assuming this path is correct
+const cafeRoutes = require('./routes/cafeRoutes'); // <--- ADDED: Import cafeRoutes
+// Assuming you also have userRoutes, you would import it here:
+// const userRoutes = require('./routes/userRoutes');
 
 const app = express();
 
@@ -23,8 +26,10 @@ app.use(express.json()); // Middleware to parse JSON request bodies
 // All routes under /api/auth will be handled by authRoutes
 app.use('/api/auth', authRoutes);
 
-// You might have other routes like:
-// app.use('/api/cafes', cafeRoutes);
+// <--- ADDED: Register cafeRoutes for /api/cafes
+app.use('/api/cafes', cafeRoutes);
+
+// If you have user-specific routes (e.g., /api/user/scan, /api/user/rate), you would add them here:
 // app.use('/api/user', userRoutes);
 
 
